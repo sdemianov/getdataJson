@@ -1,0 +1,30 @@
+[{
+							article: 2147837,
+							date: "2021-05-01",
+							stocks: "10126",
+							avg_sales: 22,
+							basic_price: 204100,
+							final_price: 204100,
+							sales: "44",
+							total: "8980400"
+							},
+							{
+							article: 2147837,
+							date: "2021-05-02",
+							stocks: "10099",
+							avg_sales: 14,
+							basic_price: 204100,
+							final_price: 204100,
+							sales: "27",
+							total: "5510700"
+							},
+							{
+							article: 2147837,
+							date: "2021-05-03",
+							stocks: "10093",
+							avg_sales: 3,
+							basic_price: 204100,
+							final_price: 204100,
+							sales: "6",
+							total: "1224600"
+							}]
